@@ -1,0 +1,12 @@
+{
+  "httpMethod": "DELETE",
+  "queryStringParameters": {
+    "email": "test@example.com" 
+  },
+  "body": null
+}
+# Replace:
+
+#test@example.com
+
+#with an email that actually exists in your DynamoDB table.
